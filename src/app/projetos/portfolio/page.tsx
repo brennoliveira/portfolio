@@ -19,7 +19,7 @@ export default function PortfolioDetalhes() {
                         { icon: <SiReact size={20} />, title: "React" },
                         { icon: <SiTypescript size={20} />, title: "TypeScript" },
                         { icon: <SiTailwindcss size={20} />, title: "Tailwind CSS" },
-                        { icon: <SiVite size={20} />, title: "Vite" },
+                        { icon: <SiNextdotjs size={20} />, title: "Next.js" },
                         { icon: <SiVercel size={20} />, title: "Vercel" },
                     ]}
                     buttons={[

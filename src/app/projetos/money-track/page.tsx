@@ -53,16 +53,10 @@ export default function MoneyTrackDetalhes() {
                     ]}
                     buttons={[
                         {
-                            href: "https://github.com/brennoliveira/money-track-frontend",
+                            href: "https://github.com/brennoliveira/money-track-backend",
                             label: "Ver no GitHub",
                             icon: <Github size={16} />,
                             color: "bg-indigo-600",
-                        },
-                        {
-                            href: "https://money-track-frontend-blush.vercel.app",
-                            label: "Ver online",
-                            icon: <Globe size={16} />,
-                            color: "bg-emerald-600",
                         },
                     ]}
                 />
